@@ -6,7 +6,7 @@
 
  # Objetivo
 
-30 dias de CSS3 é um desafio que vou aceitar (e você também pode participar) a partir de 20 de Julho de 2020), que visa melhorar minhas habilidades em HTML5 e CSS3 através da criação de projetos 
+30 dias de CSS3 é um desafio que vou aceitar (e você também pode participar) a partir de 20 de Julho de 2020, que visa melhorar minhas habilidades em HTML5 e CSS3 através da criação de projetos 
 
 # Regras gerais
 
@@ -21,4 +21,5 @@ Eu criei algumas regras para mim que não quero impor a ninguém, mas fique à v
 * Vou criar um artigo tutorial no [medium](https://medium.com/@MilenaCarecho) para todos os projetos 
 
 
-Se você quer participar desse desafio junto comigo, estou criando uma issue
+Gostou da ideia? 
+[Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issues/1) para participar 
