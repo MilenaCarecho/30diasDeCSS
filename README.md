@@ -29,7 +29,7 @@ Gostou da ideia?
 Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wveJAJZ1dDv2A) 
 
 
-####  Desafio dia 01 - Ícone de mídia social em camadas <a name="id2"></a>
+####  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
 ![dia01](https://user-images.githubusercontent.com/37448340/87863730-bdeb0580-c934-11ea-84d4-d85ec4539183.gif)
 
 ### Dicas
