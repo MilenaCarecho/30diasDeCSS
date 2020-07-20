@@ -24,7 +24,7 @@ Eu criei algumas regras para mim que não quero impor a ninguém, mas fique à v
 Gostou da ideia? 
 [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issues/1) para participar 
 
-* [Dia 01](id01)
+* [Dia 01](#id01)
 
 Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wveJAJZ1dDv2A) 
 
