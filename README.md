@@ -34,6 +34,9 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 ####  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
 ![dia01](https://user-images.githubusercontent.com/37448340/87863730-bdeb0580-c934-11ea-84d4-d85ec4539183.gif)
 
+[Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2001)
+[Tutorial Medium]()
+[Post LinkedIn](https://www.linkedin.com/posts/milenacarecho_30diascss-html5-css3-activity-6690824691449413632-7vau) 
 #### Dicas
 
 * *Inclua [Font Awesome CSS](https://www.bootstrapcdn.com/fontawesome/) no seu HTML*
