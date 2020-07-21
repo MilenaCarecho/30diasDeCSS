@@ -63,7 +63,7 @@ Cores utilizadas:
 ##  Desafio dia 02 - Loader animado <a name="id02"></a>
 ![dia02](https://user-images.githubusercontent.com/37448340/87999843-769a7b80-cad2-11ea-9e1a-2958e9c14f76.gif)
 
-[Meu codigo]()
+[Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2002)
 
 [Tutorial Medium]()
 
