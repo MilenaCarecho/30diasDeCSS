@@ -67,7 +67,7 @@ Cores utilizadas:
 
 [Tutorial Medium]()
 
-[Post LinkedIn]()
+[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6691381608261464064/)
 
 ##### Dicas
 
