@@ -29,9 +29,10 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 
 
 * [Dia 01 - Ícone de mídia social em camadas](#id01)
+* [Dia 02 - Loader animado](#id02)
 
 
-####  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
+##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
 ![dia01](https://user-images.githubusercontent.com/37448340/87863730-bdeb0580-c934-11ea-84d4-d85ec4539183.gif)
 
 [Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2001)
@@ -39,7 +40,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 [Tutorial Medium]()
 
 [Post LinkedIn](https://www.linkedin.com/posts/milenacarecho_30diascss-html5-css3-activity-6690824691449413632-7vau) 
-#### Dicas
+##### Dicas
 
 * *Inclua [Font Awesome CSS](https://www.bootstrapcdn.com/fontawesome/) no seu HTML*
 * *Encontre os icones [aqui](https://fontawesome.com/v4.7.0/icons/)*
@@ -56,3 +57,20 @@ Cores utilizadas:
 `Google + #dd4b39`
 `LinkedIn #0077b5`
 `Instagram #e4405f`
+
+
+
+##  Desafio dia 02 - Loader animado <a name="id02"></a>
+![dia02](https://user-images.githubusercontent.com/37448340/87999843-769a7b80-cad2-11ea-9e1a-2958e9c14f76.gif)
+
+[Meu codigo]()
+
+[Tutorial Medium]()
+
+[Post LinkedIn]()
+
+##### Dicas
+
+* *foi usado 3 div* 
+* *font family utilizada foi a verdana*
+* *Use [animations](https://www.w3schools.com/css/css3_animations.asp)*
