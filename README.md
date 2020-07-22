@@ -30,6 +30,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 
 * [Dia 01 - Ícone de mídia social em camadas](#id01)
 * [Dia 02 - Loader animado](#id02)
+* [Dia 03 - Loader animado](#id03)
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
@@ -74,3 +75,8 @@ Cores utilizadas:
 * *foi usado 3 div* 
 * *font family utilizada foi a verdana*
 * *Use [animations](https://www.w3schools.com/css/css3_animations.asp)*
+
+
+
+##  Desafio dia 03 - Loader animado <a name="id03"></a>
+<img src="Desafios/dia 03/gif/dia03.gif">
