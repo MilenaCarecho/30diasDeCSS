@@ -30,7 +30,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 
 * [Dia 01 - Ícone de mídia social em camadas](#id01)
 * [Dia 02 - Loader animado](#id02)
-* [Dia 03 - Loader animado](#id03)
+* [Dia 03 - Mudança de cor de texto quando entra em outra div](#id03)
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
