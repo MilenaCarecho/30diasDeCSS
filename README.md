@@ -35,7 +35,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
-![dia01](https://user-images.githubusercontent.com/37448340/87863730-bdeb0580-c934-11ea-84d4-d85ec4539183.gif)
+![dia 01](https://user-images.githubusercontent.com/37448340/88348442-c623b600-cd23-11ea-9c82-e78b3bb938b1.gif)
 
 [Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2001)
 
@@ -63,7 +63,7 @@ Cores utilizadas:
 
 
 ##  Desafio dia 02 - Loader animado <a name="id02"></a>
-![dia02](https://user-images.githubusercontent.com/37448340/87999843-769a7b80-cad2-11ea-9e1a-2958e9c14f76.gif)
+![dia 02](https://user-images.githubusercontent.com/37448340/88348444-c7ed7980-cd23-11ea-90fa-7efc1b5d3cae.gif)
 
 [Meu código](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2002)
 
