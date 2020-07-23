@@ -31,6 +31,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * [Dia 01 - Ícone de mídia social em camadas](#id01)
 * [Dia 02 - Loader animado](#id02)
 * [Dia 03 - Mudança de cor de texto quando entra em outra div](#id03)
+* [Dia 04 - Desafio dia 04 - Botão com efeito](#id04)
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
@@ -94,3 +95,21 @@ Cores utilizadas:
 
 * *[CSS Overflow](https://www.w3schools.com/css/css_overflow.asp)* 
 * *Use [animations](https://www.w3schools.com/css/css3_animations.asp)*
+
+
+##  Desafio dia 04 - Botão com efeito <a name="id04"></a>
+![dia 04](https://user-images.githubusercontent.com/37448340/88242961-38819100-cc65-11ea-82b3-b541ff8cb3d7.gif)
+
+[Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2004)
+
+[Tutorial Medium]()
+
+[Post LinkedIn]()
+
+##### Dicas
+
+* *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
+* *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
+* *[Transições ](https://www.w3schools.com/css/css3_transitions.asp)*
+* *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
