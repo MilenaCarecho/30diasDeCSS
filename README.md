@@ -25,8 +25,8 @@ Gostou da ideia?
 [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issues/1) para participar 
 
 #### Youtube Referencias dos desafios
-[Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
-[Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A)
+[Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) - 
+[Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A) - 
 [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw)
 
 Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wveJAJZ1dDv2A) 
