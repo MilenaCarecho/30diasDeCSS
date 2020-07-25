@@ -37,6 +37,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * [Dia 03 - Mudança de cor de texto quando entra em outra div](#id03)
 * [Dia 04 - Botão com efeito](#id04)
 * [Dia 05 - Efeito pulsar](#id05)
+* [Dia 06 - Efeito lightning text](#id06)
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
@@ -127,3 +128,18 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 * *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
+
+##  Desafio dia 06 - Efeito lightning text <a name="id05"></a>
+![dia 06](https://user-images.githubusercontent.com/37448340/88449709-5d216880-ce1f-11ea-924b-18acde214ce9.gif)
+
+
+[Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2006)
+
+[Tutorial Medium]()
+
+[Post LinkedIn]()
+
+##### O que eu aprendi
+
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
