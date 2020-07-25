@@ -129,7 +129,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 * *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
 
-##  Desafio dia 06 - Efeito lightning text <a name="id05"></a>
+##  Desafio dia 06 - Efeito lightning text <a name="id06"></a>
 ![dia 06](https://user-images.githubusercontent.com/37448340/88449709-5d216880-ce1f-11ea-924b-18acde214ce9.gif)
 
 
