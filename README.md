@@ -38,7 +38,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * [Dia 04 - Botão com efeito](#id04)
 * [Dia 05 - Efeito pulsar](#id05)
 * [Dia 06 - Efeito lightning text](#id06)
-* [Dia 07 - Preloader animado](#id07)  Desafio dia 07 - 
+* [Dia 07 - Preloader animado](#id07)  
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
