@@ -2,7 +2,7 @@ body
 {
     margin: 0;
     padding: 0;
-    background: #ee5253;
+    background: #bd2ae2;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -19,9 +19,21 @@ span
     position: absolute;
     width: 50px;
     height: 50px;
-    background-color: white;
+    background-color:white;
     border-radius: 4px;
+    animation: chase 2s linear infinite;
+
 }
+span:nth-child(2)
+{
+    animation-delay: 0.7s;
+}
+span:nth-child(1)
+{
+    animation-delay: 1.4s;
+}
+
+
 @keyframes chase
 {
     0% {top: 0; left: 0;}
