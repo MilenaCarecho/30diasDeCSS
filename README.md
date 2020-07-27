@@ -39,7 +39,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * [Dia 05 - Efeito pulsar](#id05)
 * [Dia 06 - Efeito lightning text](#id06)
 * [Dia 07 - Preloader animado](#id07)  
-* [Dia 08 - Corção batendo](#id08)
+* [Dia 08 - Coração batendo](#id08)
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
@@ -48,7 +48,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 
 [Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2001)
 
-[Tutorial Medium]()
+[Tutorial Medium]() *Ainda não disponivel*
 
 [Post LinkedIn](https://www.linkedin.com/posts/milenacarecho_30diascss-html5-css3-activity-6690824691449413632-7vau) 
 
@@ -71,7 +71,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 
 [Meu código](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2002)
 
-[Tutorial Medium]()
+[Tutorial Medium]()*Ainda não disponivel*
 
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6691381608261464064/)
 
@@ -88,7 +88,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 
 [Meu código](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2003)
 
-[Tutorial Medium]()
+[Tutorial Medium]()*Ainda não disponivel*
 
 [Post LinkedIn]()
 
@@ -104,7 +104,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 
 [Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2004)
 
-[Tutorial Medium]()
+[Tutorial Medium]()*Ainda não disponivel*
 
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6692115971647303681/)
 
@@ -122,7 +122,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 
 [Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2005)
 
-[Tutorial Medium]()
+[Tutorial Medium]()*Ainda não disponivel*
 
 [Post LinkedIn]()
 
@@ -137,7 +137,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 
 [Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2006)
 
-[Tutorial Medium]()
+[Tutorial Medium]()*Ainda não disponivel*
 
 [Post LinkedIn]()
 
@@ -154,7 +154,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 
 [Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/Dia%2007)
 
-[Tutorial Medium]()
+[Tutorial Medium]()*Ainda não disponivel*
 
 [Post LinkedIn]()
 
@@ -170,7 +170,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 
 [Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2008)
 
-[Tutorial Medium]()
+[Tutorial Medium]()*Ainda não disponivel*
 
 [Post LinkedIn]()
 
