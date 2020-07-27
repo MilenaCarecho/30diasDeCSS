@@ -71,7 +71,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 
 [Meu código](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2002)
 
-[Tutorial Medium]()*Ainda não disponivel*
+[Tutorial Medium]() *Ainda não disponivel*
 
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6691381608261464064/)
 
@@ -88,7 +88,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 
 [Meu código](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2003)
 
-[Tutorial Medium]()*Ainda não disponivel*
+[Tutorial Medium]() *Ainda não disponivel*
 
 [Post LinkedIn]()
 
@@ -104,7 +104,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 
 [Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2004)
 
-[Tutorial Medium]()*Ainda não disponivel*
+[Tutorial Medium]() *Ainda não disponivel*
 
 [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6692115971647303681/)
 
@@ -122,7 +122,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 
 [Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2005)
 
-[Tutorial Medium]()*Ainda não disponivel*
+[Tutorial Medium]() *Ainda não disponivel*
 
 [Post LinkedIn]()
 
@@ -137,7 +137,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 
 [Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2006)
 
-[Tutorial Medium]()*Ainda não disponivel*
+[Tutorial Medium]() *Ainda não disponivel*
 
 [Post LinkedIn]()
 
@@ -154,7 +154,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 
 [Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/Dia%2007)
 
-[Tutorial Medium]()*Ainda não disponivel*
+[Tutorial Medium]() *Ainda não disponivel*
 
 [Post LinkedIn]()
 
