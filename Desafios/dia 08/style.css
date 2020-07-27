@@ -1,0 +1,38 @@
+body
+{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Lato', sans-serif;
+    background-color: #262626;
+}
+.coracao
+{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(247, 72, 72);
+}
+.coracao::before
+{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100px;
+    height: 100%;
+    background-color: white;
+    transform: rotateY(-50%);
+}
+.coracao::after
+{
+    content:'' ;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100px;
+    height: 100%;
+    background-color: white;
+    transform: rotateX(-50%);
+}
