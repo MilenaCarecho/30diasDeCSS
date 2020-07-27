@@ -170,7 +170,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 
 [Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2008)
 
-[Tutorial Medium]()*Ainda não disponivel*
+[Tutorial Medium]() *Ainda não disponivel*
 
 [Post LinkedIn]()
 
