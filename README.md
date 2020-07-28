@@ -40,6 +40,8 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * [Dia 06 - Efeito lightning text](#id06)
 * [Dia 07 - Preloader animado](#id07)  
 * [Dia 08 - Coração batendo](#id08)
+* [Dia 09 - Pendulo de Newton](#id09)
+
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
@@ -178,5 +180,23 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 
 * *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
 * *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+
+##  Desafio dia 09 - Pendulo de Newton <a name="id09"></a>
+![gif (1)](https://user-images.githubusercontent.com/37448340/88670759-d76e1900-d0bb-11ea-8158-edf1cdf41b97.gif)
+
+
+[Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2009)
+
+[Tutorial Medium]() *Ainda não disponivel*
+
+[Post LinkedIn]()
+
+##### O que eu aprendi
+
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
+* *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
+* *[first-child](https://www.w3schools.com/cssref/sel_firstchild.asp)*
+* *[last-child](https://www.w3schools.com/cssref/sel_last-child.asp)*
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 
