@@ -41,6 +41,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * [Dia 07 - Preloader animado](#id07)  
 * [Dia 08 - Coração batendo](#id08)
 * [Dia 09 - Pendulo de Newton](#id09)
+* [Dia 10 - Animação texto alternando](#id10)
 
 
 
@@ -198,5 +199,21 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
 * *[first-child](https://www.w3schools.com/cssref/sel_firstchild.asp)*
 * *[last-child](https://www.w3schools.com/cssref/sel_last-child.asp)*
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+
+
+##  Desafio dia 10 - Animação texto alternando <a name="id10"></a>
+![gif (2)](https://user-images.githubusercontent.com/37448340/88792562-caabfc80-d171-11ea-8c71-9756331e3ab6.gif)
+
+
+[Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2010)
+
+[Tutorial Medium]() *Ainda não disponivel*
+
+[Post LinkedIn]()
+
+##### O que eu aprendi
+
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 
