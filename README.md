@@ -42,6 +42,8 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * [Dia 08 - Coração batendo](#id08)
 * [Dia 09 - Pendulo de Newton](#id09)
 * [Dia 10 - Animação texto alternando](#id10)
+* [Dia 11 - Botão com efeito hover](#id11)
+
 
 
 
