@@ -217,3 +217,20 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 
+##  Desafio dia 11 - Botão com efeito hover <a name="id11"></a>
+![gif (3)](https://user-images.githubusercontent.com/37448340/88915715-29897880-d23b-11ea-9f58-8fe93214d3cc.gif)
+
+
+[Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2011)
+
+[Tutorial Medium]() *Ainda não disponivel*
+
+[Post LinkedIn]()
+
+##### O que eu aprendi
+
+* *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
+* *[Overflow](https://www.w3schools.com/css/css_overflow.asp)* 
+* *[Transições ](https://www.w3schools.com/css/css3_transitions.asp)*
+* *[z-index](https://www.w3schools.com/cssref/pr_pos_z-index.asp)*
