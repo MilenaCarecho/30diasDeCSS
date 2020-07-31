@@ -43,8 +43,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * [Dia 09 - Pendulo de Newton](#id09)
 * [Dia 10 - Animação texto alternando](#id10)
 * [Dia 11 - Botão com efeito hover](#id11)
-
-
+* [Dia 12 - Efeito de preenchimento ao passar o mouse](#id12)
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
@@ -236,3 +235,19 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * *[Overflow](https://www.w3schools.com/css/css_overflow.asp)* 
 * *[Transições ](https://www.w3schools.com/css/css3_transitions.asp)*
 * *[z-index](https://www.w3schools.com/cssref/pr_pos_z-index.asp)*
+
+
+##  Desafio dia 12 - Efeito de texto de preenchimento ao passar o mouse<a name="id12"></a>
+![gif (4)](https://user-images.githubusercontent.com/37448340/89034283-05976700-d30f-11ea-983f-5b0171212a2a.gif)
+
+[Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2012)
+
+[Tutorial Medium]() *Ainda não disponivel*
+
+[Post LinkedIn]()
+
+##### O que eu aprendi
+
+* *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
+* *[Transições ](https://www.w3schools.com/css/css3_transitions.asp)*
