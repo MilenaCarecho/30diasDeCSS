@@ -268,3 +268,22 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 * *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
+
+
+##  Desafio dia 14 - Fundo de texto animado<a name="id14"></a>
+![gif (4)](https://user-images.githubusercontent.com/37448340/89136987-adc64f00-d50c-11ea-8ce7-97515b31ae0e.gif)
+
+
+
+[Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2014)
+
+[Tutorial Medium]() *Ainda não disponivel*
+
+[Post LinkedIn]()
+
+##### O que eu aprendi
+
+
+* *[background-clip](https://www.w3schools.com/cssref/css3_pr_background-clip.asp)*
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+
