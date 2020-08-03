@@ -45,6 +45,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * [Dia 11 - Botão com efeito hover](#id11)
 * [Dia 12 - Efeito de preenchimento ao passar o mouse](#id12)
 * [Dia 13 - Loading com efeito](#id13)
+* [Dia 14 - Fundo de texto animado](#id14)
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
