@@ -46,6 +46,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * [Dia 12 - Efeito de preenchimento ao passar o mouse](#id12)
 * [Dia 13 - Loading com efeito](#id13)
 * [Dia 14 - Fundo de texto animado](#id14)
+* [Dia 15 - Texto flutuante](#id15)
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
@@ -286,5 +287,23 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 
 
 * *[background-clip](https://www.w3schools.com/cssref/css3_pr_background-clip.asp)*
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+
+
+
+##  Desafio dia 15 - Texto flutuante<a name="id15"></a>
+![gif (5)](https://user-images.githubusercontent.com/37448340/89242255-796b9500-d5d7-11ea-9e4f-4f4d499f5dc6.gif)
+
+
+[Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2015)
+
+[Tutorial Medium]() *Ainda não disponivel*
+
+[Post LinkedIn]()
+
+##### O que eu aprendi
+
+
+* *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 
