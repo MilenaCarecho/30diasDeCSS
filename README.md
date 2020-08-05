@@ -47,6 +47,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * [Dia 13 - Loading com efeito](#id13)
 * [Dia 14 - Fundo de texto animado](#id14)
 * [Dia 15 - Texto flutuante](#id15)
+* [Dia 16 - Botão com efeito](#id16)
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
@@ -308,7 +309,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 
 
-##  Desafio dia 15 - Texto flutuante<a name="id15"></a>
+##  Desafio dia 16 - Botão com efeito <a name="id16"></a>
 ![gif (6)](https://user-images.githubusercontent.com/37448340/89361050-9a4bed00-d6a0-11ea-85c0-b331c7efcbed.gif)
 
 
