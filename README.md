@@ -307,3 +307,21 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 
+
+##  Desafio dia 15 - Texto flutuante<a name="id15"></a>
+![gif (6)](https://user-images.githubusercontent.com/37448340/89361050-9a4bed00-d6a0-11ea-85c0-b331c7efcbed.gif)
+
+
+[Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2016)
+
+[Tutorial Medium]() *Ainda não disponivel*
+
+[Post LinkedIn]()
+
+##### O que eu aprendi
+
+* *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
+* *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
+* *[Transições ](https://www.w3schools.com/css/css3_transitions.asp)*
+
