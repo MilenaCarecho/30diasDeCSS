@@ -48,6 +48,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * [Dia 14 - Fundo de texto animado](#id14)
 * [Dia 15 - Texto flutuante](#id15)
 * [Dia 16 - Botão com efeito](#id16)
+* [Dia 17 - Loader animado](#id17)
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
@@ -326,3 +327,17 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
 * *[Transições ](https://www.w3schools.com/css/css3_transitions.asp)*
 
+
+##  Desafio dia 17 - Loader animado<a name="id17"></a>
+![gif (7)](https://user-images.githubusercontent.com/37448340/89480128-f2e7bc80-d76a-11ea-8aaa-6987ee30a1c7.gif)
+
+
+[Meu código](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2017)
+
+[Tutorial Medium]() *Ainda não disponivel*
+
+[Post LinkedIn]()
+
+##### O que eu aprendi
+
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
