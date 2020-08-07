@@ -49,6 +49,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * [Dia 15 - Texto flutuante](#id15)
 * [Dia 16 - Botão com efeito](#id16)
 * [Dia 17 - Loader animado](#id17)
+* [Dia 18 - Texto esfumaçado](#id18)
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
@@ -341,3 +342,21 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 ##### O que eu aprendi
 
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+
+
+##  Desafio dia 18 - Texto esfumaçado<a name="id18"></a>
+![gif (9)](https://user-images.githubusercontent.com/37448340/89602896-2a736900-d83e-11ea-83d1-ddf210064771.gif)
+
+
+
+[Meu código](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2018)
+
+[Tutorial Medium]() *Ainda não disponivel*
+
+[Post LinkedIn]()
+
+##### O que eu aprendi
+
+* *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
+* *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
+* *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
