@@ -362,7 +362,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
 * *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
 
-##  Desafio dia 19 - Efeitos de animação de fundo de partículas <a name="id19"></a>
+##  Desafio dia 19 - Efeitos de animação fundo de partículas <a name="id19"></a>
 ![gif (10)](https://user-images.githubusercontent.com/37448340/89700784-6b838000-d907-11ea-852b-d9b06fadd590.gif)
 
 
