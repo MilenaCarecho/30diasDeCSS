@@ -50,6 +50,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * [Dia 16 - Botão com efeito](#id16)
 * [Dia 17 - Loader animado](#id17)
 * [Dia 18 - Texto esfumaçado](#id18)
+* [Dia 19 - Efeitos de animação de fundo de partículas](#id19)
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
@@ -360,3 +361,21 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
 * *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
 * *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
+
+##  Desafio dia 19 - Efeitos de animação de fundo de partículas <a name="id19"></a>
+![gif (10)](https://user-images.githubusercontent.com/37448340/89700784-6b838000-d907-11ea-852b-d9b06fadd590.gif)
+
+
+
+[Meu código](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2019)
+
+[Tutorial Medium]() *Ainda não disponivel*
+
+[Post LinkedIn]()
+
+##### O que eu aprendi
+
+* *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
+* *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[variáveis CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties)*
