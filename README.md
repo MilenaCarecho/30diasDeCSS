@@ -404,6 +404,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * *[Transições ](https://www.w3schools.com/css/css3_transitions.asp)*
 
 ##  Desafio dia 21 - Esferas quicando <a name="id21"></a>
+![gif (14)](https://user-images.githubusercontent.com/37448340/89748326-fd6ec280-da98-11ea-846f-cb7b68a1d777.gif)
 
 
 [Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2021)
