@@ -52,6 +52,9 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * [Dia 18 - Texto esfumaçado](#id18)
 * [Dia 19 - Efeitos de animação de fundo de partículas](#id19)
 * [Dia 20 - Botão com efeito](#id20)
+* [Dia 21 - Esferas quicando](#id21)
+
+
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
@@ -400,3 +403,17 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
 * *[Transições ](https://www.w3schools.com/css/css3_transitions.asp)*
 
+##  Desafio dia 21 - Esferas quicando <a name="id21"></a>
+
+
+[Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2021)
+
+[Tutorial Medium]() *Ainda não disponivel*
+
+[Post LinkedIn]()
+
+##### O que eu aprendi
+
+
+* *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
