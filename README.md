@@ -418,3 +418,23 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 
 * *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+
+
+##  Desafio dia 22 - Icones com efeito <a name="id22"></a>
+![gif (15)](https://user-images.githubusercontent.com/37448340/89851135-2a3adc80-db62-11ea-8b59-c76672f08e0b.gif)
+
+
+
+[Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2022)
+
+[Tutorial Medium]() *Ainda não disponivel*
+
+[Post LinkedIn]()
+
+##### O que eu aprendi
+
+
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
+* *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
+* *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
