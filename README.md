@@ -439,7 +439,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 
-##  Desafio dia 23 - Botão com efeito <a name="id16"></a>
+##  Desafio dia 23 - Botão com efeito <a name="id23"></a>
 
 ![gif (17)](https://user-images.githubusercontent.com/37448340/89967422-caa70480-dc27-11ea-8a1f-80adfbaea9d4.gif)
 
