@@ -461,7 +461,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 ![gif (18)](https://user-images.githubusercontent.com/37448340/90086193-3e144900-dcf0-11ea-94eb-39dbb4723e7a.gif)
 
 
-[Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/Dia%2024)
+[Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2024)
 
 [Tutorial Medium]() *Ainda não disponivel*
 
