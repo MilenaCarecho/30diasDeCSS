@@ -457,8 +457,8 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
 
 
-##  Desafio dia 24 - Preloader animado <a name="id07"></a>
-![dia 07](https://user-images.githubusercontent.com/37448340/88490911-412fdb00-cf75-11ea-806c-c41df0d1727e.gif)
+##  Desafio dia 24 - Preloader animado <a name="id24"></a>
+![gif (18)](https://user-images.githubusercontent.com/37448340/90086193-3e144900-dcf0-11ea-94eb-39dbb4723e7a.gif)
 
 
 [Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/Dia%2007)
