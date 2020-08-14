@@ -475,7 +475,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 
 
 ## Desafio dia 25 - checkbox animado <a name="id25"></a>
-![gif (19)](https://user-images.githubusercontent.com/37448340/90207155-e9d69b00-ddbb-11ea-98b9-d9707186404c.gif)
+![gif (20)](https://user-images.githubusercontent.com/37448340/90207269-33bf8100-ddbc-11ea-9d30-e6cd44d2a120.gif)
 
 
 
