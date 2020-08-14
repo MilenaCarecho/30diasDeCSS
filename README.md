@@ -56,6 +56,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * [Dia 22 - Icones com efeito](#id22)
 * [Dia 23 - Botão com efeito hover](#id23)
 * [Dia 24 - Preloader animado](#id24)
+* [Dia 25 - Checkbox animado](#id25)
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
@@ -471,3 +472,20 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 * *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
+
+
+## Desafio dia 25 - checkbox animado <a name="id25"></a>
+![gif (19)](https://user-images.githubusercontent.com/37448340/90207155-e9d69b00-ddbb-11ea-98b9-d9707186404c.gif)
+
+
+
+
+[Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2025)
+
+[Tutorial Medium]() *Ainda não disponivel*
+
+[Post LinkedIn]()
+
+##### O que eu aprendi 
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)* 
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
