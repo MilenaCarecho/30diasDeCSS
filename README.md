@@ -59,7 +59,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * [Dia 25 - Checkbox animado](#id25)
 * [Dia 26 - Loading com efeito](#id26)
 * [Dia 27 - Efeito pulsar](#id27)
-
+* [Dia 28 - Cor do background mudando](#id28)
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
 ![Dia 01](https://user-images.githubusercontent.com/37448340/88348819-d38d7000-cd24-11ea-99d1-39b04afb77f2.gif)
@@ -510,20 +510,21 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 
 
-## Desafio dia 27 - efeito pulsar<a name="id27"></a>
-![gif (22)](https://user-images.githubusercontent.com/37448340/90325194-f0e1e280-df4e-11ea-9ace-f25626056901.gif)
+## Desafio dia 28 - cor do background mudando<a name="id28"></a>
+![gif (23)](https://user-images.githubusercontent.com/37448340/90352994-61eecc00-e01b-11ea-90db-d0fabc5036ab.gif)
 
 
-[Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2027)
+
+[Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2028)
 
 [Tutorial Medium]() *Ainda não disponivel*
 
 [Post LinkedIn]()
 
 ##### O que eu aprendi 
-* *[::before](https://www.w3schools.com/cssref/sel_before.asp)* 
-* *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+
+
 
 
 
