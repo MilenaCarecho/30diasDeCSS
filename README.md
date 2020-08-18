@@ -529,7 +529,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 
 
 
-## Desafio dia 29 - Menu hamburguer<a name="id29"></a>
+## Desafio dia 29 - Menu responsivo com Media Queries<a name="id29"></a>
 ![gif (24)](https://user-images.githubusercontent.com/37448340/90464853-911d4000-e0e4-11ea-9328-2b481a304913.gif)
 
 
