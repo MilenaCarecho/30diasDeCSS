@@ -60,7 +60,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * [Dia 26 - Loading com efeito](#id26)
 * [Dia 27 - Efeito pulsar](#id27)
 * [Dia 28 - Cor do background mudando](#id28)
-* [Dia 29 - Menu hamburguer](#id29)
+* [Dia 29 - Menu responsivo com Media Queries](#id29)
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
