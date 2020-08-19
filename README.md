@@ -61,6 +61,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * [Dia 27 - Efeito pulsar](#id27)
 * [Dia 28 - Cor do background mudando](#id28)
 * [Dia 29 - Menu responsivo com Media Queries](#id29)
+* [Dia 30 - Fogos de artificio](#id30)
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
@@ -544,6 +545,22 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * *[@media](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@media)*
 
 
+## Desafio dia 30 - Fogos de artificio<a name="id30"></a>
+![gif (25)](https://user-images.githubusercontent.com/37448340/90583437-85924d80-e1a6-11ea-98ad-db4fbf5f0739.gif)
 
 
+
+
+[Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2030)
+
+[Tutorial Medium]() *Ainda não disponivel*
+
+[Post LinkedIn]()
+
+##### O que eu aprendi 
+
+* *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)* 
+* *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 
