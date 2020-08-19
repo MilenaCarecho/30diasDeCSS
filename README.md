@@ -513,6 +513,24 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 
 
+
+## Desafio dia 27 - Efeito pulsar<a name="id27"></a>
+![gif (22)](https://user-images.githubusercontent.com/37448340/90583617-fcc7e180-e1a6-11ea-904a-4cf74508b5a0.gif)
+
+
+
+[Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2027)
+
+[Tutorial Medium]() *Ainda não disponivel*
+
+[Post LinkedIn]()
+
+##### O que eu aprendi 
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)* 
+* *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+
+
 ## Desafio dia 28 - cor do background mudando<a name="id28"></a>
 ![gif (23)](https://user-images.githubusercontent.com/37448340/90352994-61eecc00-e01b-11ea-90db-d0fabc5036ab.gif)
 
@@ -535,7 +553,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 
 
 
-[Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2029)
+[Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/Dia%2029)
 
 [Tutorial Medium]() *Ainda não disponivel*
 
