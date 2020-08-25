@@ -1,0 +1,88 @@
+* 
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #18191f;
+}
+ul 
+{
+    position: relative;
+    display: flex;
+}
+ul li 
+{
+    list-style: none;
+}
+ul li label
+{
+    position: relative;
+}
+ul li label input[type="checkbox"]
+{
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+}
+ul li label .icon 
+{
+    position: relative;
+    width: 60px;
+    height: 60px;
+    background: #18191f;
+    color: #555;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin: 0 10px;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: -1px -1px 4px rgba(255,255,255,0.05)
+                4px 4px 6px rgba(0,0,0,0.02)
+                inset -1px -1px 4px rgba(255,255,255,0.05)
+                inset 1px 1px 1px rgba(0,0,0,0.01);
+}
+ul li label .icon:before
+{
+    content: "";
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    width: calc(100% - 5 px);
+    height: calc(50% - 2px);
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    background: rgba(255,255,255,0.05);
+}
+ul li label input[type="checkbox"]:checked ~ .icon
+{
+    box-shadow: inset 0px 0px 2px rgba(255,255,255,0.05)
+                inset 4px 4px 6px rgba(0,0,0,0.02);
+}
+ul li label input[type="checkbox"]:checked ~ .icon .fa
+{
+    color: #00f3ff;
+    text-shadow: 0 0 15 px #00f3ff,
+                 0 0 25 px #00f3ff;
+    animation: animate 5s linear infinite;
+}
+@keyframes animate
+{
+    0%
+    {
+        filter: hue-rotate(0deg);
+    }
+    100%
+    {
+        filter: hue-rotate(360deg);
+    }
+}
