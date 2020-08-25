@@ -237,7 +237,7 @@ Você pode mandar suas duvidas anonimamente por [AQUI](https://forms.gle/W3D7wve
 * *[z-index](https://www.w3schools.com/cssref/pr_pos_z-index.asp)*
 
 
-##  Desafio dia 12 - Efeito de texto de preenchimento ao passar o mouse<a name="id12"></a>
+##  Desafio dia 12 - Efeito de preenchimento ao passar o mouse<a name="id12"></a>
 ![gif (4)](https://user-images.githubusercontent.com/37448340/89034283-05976700-d30f-11ea-983f-5b0171212a2a.gif)
 
 [Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2012)
