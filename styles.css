@@ -24,15 +24,11 @@
 
 .logoList li:hover img {
   animation-name: animationLogo;
-  animation-duration: 2s;
+  animation-duration: 2.5s;
 }
 
 @keyframes animationLogo {
-  30% {
-    transform: translateY(-50px);
-  }
-
-  100% {
-    transform: translateY(-100px);
+  50% {
+    transform: perspective(500px) translateY(-70px) rotate(-50deg) skewY(25deg);
   }
 }
