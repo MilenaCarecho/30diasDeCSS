@@ -27,14 +27,12 @@
   animation-duration: 2s;
 }
 
-.logoLayer {
+.logoList span {
   display: block;
 }
 
-.logoLayer::after {
-  content: "aaaa";
-  animation-name: animationLogo;
-  animation-duration: 2s;
+.logoList span::after {
+  content: "layer";
 }
 
 @keyframes animationLogo {

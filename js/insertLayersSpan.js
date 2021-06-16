@@ -1,6 +1,5 @@
 const generateSpan = (quantity) => Array.from({ length: quantity }, () => {
   const span = document.createElement('span');
-  span.setAttribute('class', 'logoLayer');
   return span;
 });
 
