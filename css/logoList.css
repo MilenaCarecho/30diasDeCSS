@@ -24,7 +24,17 @@
 
 .logoList li:hover img {
   animation-name: animationLogo;
-  animation-duration: 2.5s;
+  animation-duration: 2s;
+}
+
+.logoLayer {
+  display: block;
+}
+
+.logoLayer::after {
+  content: "aaaa";
+  animation-name: animationLogo;
+  animation-duration: 2s;
 }
 
 @keyframes animationLogo {

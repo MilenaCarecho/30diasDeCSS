@@ -1,4 +1,4 @@
-import data from './data/index.js';
+import data from '../data/index.js';
 
 const generateLogoAnchor = (atributes) => {
   const a = document.createElement('a');
