@@ -1,3 +1,9 @@
 {
-  "extends": "stylelint-config-primer"
+  "extends": "stylelint-config-primer",
+  "rules": {
+    "selector-max-specificity": "0,2,2",
+    "selector-type-no-unknown": null,
+    "selector-pseudo-element-no-unknown": null,
+    "selector-max-type": 3
+  }
 }

@@ -1,7 +1,38 @@
 * {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.logoList {
+  position: absolute;
+  top: 50%;
+  left: 25%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.logoList > li {
+  padding-right: 60px;
   list-style-type: none;
 }
 
-.logoImage {
-  width: 60px;
+.logoList img {
+  width: 70px;
+  transform: rotate(-50deg) skewY(25deg);
+}
+
+.logoList li:hover img {
+  animation-name: animationLogo;
+  animation-duration: 2s;
+}
+
+@keyframes animationLogo {
+  30% {
+    transform: translateY(-50px);
+  }
+
+  100% {
+    transform: translateY(-100px);
+  }
 }
