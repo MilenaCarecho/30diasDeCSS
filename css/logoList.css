@@ -1,3 +1,10 @@
+:root {
+  --layer-rotate: -50deg;
+  --layer-skewY: 25deg;
+  --layer-max-translateY: -50px;
+  --animation-duration: 2s;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -13,30 +20,55 @@
 }
 
 .logoList > li {
-  padding-right: 60px;
+  padding-right: 150px;
   list-style-type: none;
 }
 
 .logoList img {
+  position: absolute;
   width: 70px;
-  transform: rotate(-50deg) skewY(25deg);
+  height: 70px;
+  transform: rotate(var(--layer-rotate)) skewY(var(--layer-skewY));
 }
 
-.logoList li:hover img {
+.logo:hover {
+  z-index: 5;
   animation-name: animationLogo;
-  animation-duration: 2s;
+  animation-duration: var(--animation-duration);
 }
 
-.logoList span {
-  display: block;
+.layer {
+  animation-name: animationLogo;
+  animation-duration: var(--animation-duration);
 }
 
-.logoList span::after {
-  content: "layer";
+.layer-0 {
+  z-index: 4;
+  opacity: 0.8;
+  animation-delay: 0.3s;
+}
+
+.layer-1 {
+  z-index: 3;
+  opacity: 0.6;
+  animation-delay: 0.5s;
+}
+
+.layer-2 {
+  z-index: 2;
+  opacity: 0.4;
+  animation-delay: 0.7s;
+}
+
+.layer-3 {
+  z-index: 1;
+  opacity: 0.2;
+  animation-delay: 0.9s;
 }
 
 @keyframes animationLogo {
-  50% {
-    transform: perspective(500px) translateY(-70px) rotate(-50deg) skewY(25deg);
+  to {
+    transform: translateY(var(--layer-max-translateY))
+      rotate(var(--layer-rotate)) skewY(var(--layer-skewY));
   }
 }

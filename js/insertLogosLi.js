@@ -6,6 +6,7 @@ const generateLogoAnchor = (atributes) => {
 
   const img = document.createElement('img');
   img.setAttribute('src', atributes.src);
+  img.setAttribute('class', 'logo');
   img.setAttribute('alt', atributes.alt || 'Logo');
 
   a.appendChild(img);
