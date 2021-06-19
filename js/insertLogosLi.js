@@ -19,7 +19,7 @@ const injectList = (log) => {
   const a = generateLogoAnchor(log);
   li.appendChild(a);
 
-  document.querySelector('.logoList').appendChild(li);
+  document.querySelector('.logo-list').appendChild(li);
 };
 
 data.forEach(injectList);

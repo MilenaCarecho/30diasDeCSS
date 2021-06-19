@@ -2,7 +2,7 @@
   --layer-rotate: -50deg;
   --layer-skewY: 25deg;
   --layer-max-translateY: -50px;
-  --animation-duration: 2s;
+  --animation-duration: 1s;
 }
 
 * {
@@ -10,7 +10,7 @@
   margin: 0;
 }
 
-.logoList {
+.logo-list {
   position: absolute;
   top: 50%;
   left: 25%;
@@ -19,12 +19,12 @@
   justify-content: center;
 }
 
-.logoList > li {
+.logo-list > li {
   padding-right: 150px;
   list-style-type: none;
 }
 
-.logoList img {
+.logo-list img {
   position: absolute;
   width: 70px;
   height: 70px;
@@ -45,25 +45,31 @@
 .layer-0 {
   z-index: 4;
   opacity: 0.8;
-  animation-delay: 0.3s;
+  animation-delay: 0.2s;
 }
 
 .layer-1 {
   z-index: 3;
   opacity: 0.6;
-  animation-delay: 0.5s;
+  animation-delay: 0.4s;
 }
 
 .layer-2 {
   z-index: 2;
   opacity: 0.4;
-  animation-delay: 0.7s;
+  animation-delay: 0.6s;
 }
 
 .layer-3 {
   z-index: 1;
   opacity: 0.2;
-  animation-delay: 0.9s;
+  animation-delay: 0.8s;
+}
+
+.layer-4 {
+  z-index: 0;
+  opacity: 0.1;
+  animation-delay: 0.01s;
 }
 
 @keyframes animationLogo {

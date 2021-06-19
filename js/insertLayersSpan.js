@@ -22,7 +22,7 @@ const removeLayers = () => {
 
 document.querySelectorAll('img')
   .forEach((element) => {
-    element.addEventListener('animationstart', ({ target }) => injectLayers(target, 4));
+    element.addEventListener('animationstart', ({ target }) => injectLayers(target, 5));
     element.addEventListener('animationend', removeLayers);
     element.addEventListener('animationcancel', removeLayers);
   });
