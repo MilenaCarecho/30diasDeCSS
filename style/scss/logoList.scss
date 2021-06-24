@@ -1,9 +1,7 @@
-:root {
-  --layer-rotate: -50deg;
-  --layer-skewY: 25deg;
-  --layer-max-translateY: -50px;
-  --animation-duration: 1s;
-}
+$layer-rotate: -50deg;
+$layer-skewY: 25deg;
+$layer-max-translateY: -50px;
+$animation-duration: 1s;
 
 * {
   box-sizing: border-box;
@@ -17,29 +15,30 @@
   display: flex;
   flex-direction: row;
   justify-content: center;
+
+  li {
+    padding-right: 150px;
+    list-style-type: none;
+  }
 }
 
-.logo-list > li {
-  padding-right: 150px;
-  list-style-type: none;
-}
-
-.logo-list img {
+.logo,
+.layer {
   position: absolute;
   width: 70px;
   height: 70px;
-  transform: rotate(var(--layer-rotate)) skewY(var(--layer-skewY));
+  transform: rotate($layer-rotate) skewY($layer-skewY);
 }
 
 .logo:hover {
   z-index: 5;
   animation-name: animationLogo;
-  animation-duration: var(--animation-duration);
+  animation-duration: $animation-duration;
 }
 
 .layer {
   animation-name: animationLogo;
-  animation-duration: var(--animation-duration);
+  animation-duration: $animation-duration;
 }
 
 .layer-0 {
@@ -74,7 +73,7 @@
 
 @keyframes animationLogo {
   to {
-    transform: translateY(var(--layer-max-translateY))
-      rotate(var(--layer-rotate)) skewY(var(--layer-skewY));
+    transform: translateY($layer-max-translateY) rotate($layer-rotate)
+      skewY($layer-skewY);
   }
 }

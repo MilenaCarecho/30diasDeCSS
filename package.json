@@ -3,11 +3,31 @@
     "eslint": "^7.28.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.23.4",
+    "sass": "^1.35.1",
     "stylelint": "^13.13.1",
     "stylelint-config-standard": "^22.0.0",
     "stylelint-order": "^4.1.0"
   },
   "dependencies": {
     "stylelint-config-primer": "^11.0.1"
-  }
+  },
+  "name": "30diasdecss",
+  "description": "Fala Devs, beleza? 🖖",
+  "version": "1.0.0",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "sass": "sass --watch --style compressed style/scss:style/css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jr3564/30diasDeCSS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jr3564/30diasDeCSS/issues"
+  },
+  "homepage": "https://github.com/Jr3564/30diasDeCSS#readme"
 }
